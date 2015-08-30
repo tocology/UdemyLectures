@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repair",
+    "description": "Nam semper ornare ante tristique efficitur. Mauris felis arcu, tempus pellentesque tellus nec, finibus volutpat libero. Nunc ligula risus, tincidunt nec risus nec, hendrerit lobortis augue. Nunc bibendum ut erat vitae efficitur. Integer a dui neque. Vivamus accumsan facilisis tellus, tincidunt porttitor erat congue aliquet. Maecenas id massa commodo, lobortis purus nec, fringilla ligula. Vestibulum et pretium metus, ut ullamcorper ante. Vivamus tempor sem a rhoncus egestas. Curabitur vitae ullamcorper ipsum, quis pulvinar justo. Nulla facilisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ut pretium est. Nunc feugiat elit non felis ultrices porttitor. Maecenas et rutrum enim.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Nam semper ornare ante tristique efficitur. Mauris felis arcu, tempus pellentesque tellus nec, finibus volutpat libero. Nunc ligula risus, tincidunt nec risus nec, hendrerit lobortis augue. Nunc bibendum ut erat vitae efficitur. Integer a dui neque. Vivamus accumsan facilisis tellus, tincidunt porttitor erat congue aliquet. Maecenas id massa commodo, lobortis purus nec, fringilla ligula. Vestibulum et pretium metus, ut ullamcorper ante. Vivamus tempor sem a rhoncus egestas. Curabitur vitae ullamcorper ipsum, quis pulvinar justo. Nulla facilisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ut pretium est. Nunc feugiat elit non felis ultrices porttitor. Maecenas et rutrum enim.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description": "Nam semper ornare ante tristique efficitur. Mauris felis arcu, tempus pellentesque tellus nec, finibus volutpat libero. Nunc ligula risus, tincidunt nec risus nec, hendrerit lobortis augue. Nunc bibendum ut erat vitae efficitur. Integer a dui neque. Vivamus accumsan facilisis tellus, tincidunt porttitor erat congue aliquet. Maecenas id massa commodo, lobortis purus nec, fringilla ligula. Vestibulum et pretium metus, ut ullamcorper ante. Vivamus tempor sem a rhoncus egestas. Curabitur vitae ullamcorper ipsum, quis pulvinar justo. Nulla facilisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ut pretium est. Nunc feugiat elit non felis ultrices porttitor. Maecenas et rutrum enim.",
+    "image": "computer-icon.png"
+  }
+]
