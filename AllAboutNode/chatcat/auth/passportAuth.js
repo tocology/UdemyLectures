@@ -22,7 +22,7 @@ module.exports = function(passport, facebookStrategy, config, mongoose){
     clientID: config.fb.appID,
     clientSecret: config.fb.appSecret,
     callbackURL: config.fb.callbackURL,
-    profileFields: ['id', 'displayname', 'photos']
+    profileFields: ['id', 'displayName', 'photos']
   }, function(accessToken, refreshToken, profile, done){
     // Check if the user exists in our MongoDB DB
     // if not, create one and return the profile
