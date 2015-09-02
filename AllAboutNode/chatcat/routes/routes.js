@@ -3,7 +3,9 @@ module.exports = function(express, app){
 
   router.get('/', function(req, res, next){
     res.render('index', {title: 'Welcome to ChatCAT'});
-  })
+  });
+
+  router.get('/auth/facebook', passport.authenticate('facebook'));
 
   router.get('/chatrooms', function(req, res, next){
     res.render('chatrooms', {title:'Chatrooms'});
