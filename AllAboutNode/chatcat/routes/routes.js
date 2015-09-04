@@ -36,7 +36,7 @@ module.exports = function(express, app, passport, config, rooms){
     }
   }
 
-  router.get('/room/:id', function(req, res, next){
+  router.get('/room/:id', securePages, function(req, res, next){
     var room_name = findTitle(req.params.id);
     res.render('room', {user:req.user, room_number:req.params.id, room_name:room_name, config:config});
   });
