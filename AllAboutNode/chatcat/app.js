@@ -28,7 +28,7 @@ if(env === 'development'){
       //url:config.dbURL,
       mongoose_connection:mongoose.connections[0],
       stringify:true
-    }), saveUninitialized:true, resave:true}));
+    }), saveUnnitialized:true, resave:true}));
 }
 
 // var userSchema = mongoose.Schema({
@@ -54,7 +54,7 @@ app.use(passport.session());
 
 require('./auth/passportAuth.js')(passport, facebookStrategy, config, mongoose);
 
-require('./routes/routes.js')(express, app, passport, config);
+require('./routes/routes.js')(express, app, passport, config, rooms);
 
 // app.listen(3000, function(){
 //   console.log('ChatCAT Working on Port 3000');
