@@ -4,7 +4,7 @@
   "fb":{
     "appID": "520382958115755",
     "appSecret": "2d249a445153fe3f9582cf94a57bc737",
-    "callbackURL": "http://localhost:3000/auth/facebook/callback"
+    "callbackURL": "http://chatcat-tocology.herokuapp.com/auth/facebook/callback"
   },
-  "host":""
+  "host":"chatcat-tocology.herokuapp.com"
 }
