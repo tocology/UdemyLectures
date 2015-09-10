@@ -14,7 +14,7 @@
   git commit -m "ChatCAT first commit"
   git push heroku master
 ```
-## acivate dyno
+## activate dyno
 ```
   heroku ps:scale web=1 // check
 ```
