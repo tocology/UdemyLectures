@@ -1,6 +1,3 @@
 {
   "host":"http://localhost:3000",
-  "S3AccessKey": "AKIAJ56HCZPDMZ5H3TUQ",
-  "S3Secret": "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",
-  "S3Bucket": "photogrid-tocology"
 }
